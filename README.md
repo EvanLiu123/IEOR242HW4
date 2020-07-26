@@ -1,1 +1,1 @@
-Codes and reports for the Kaggle Competition of NYC Taxi Travel Duration Prediction
+[Author: Changjin Liu] This project is for the NYC Taxi Travel Duration Prediction Kaggle Competition, integrating several regression machine learning methods such as Gradient Boosting Regressor, XGBoost, LightGBM et al, and the result of 287.6 RMSE gets the 5th / 72 place.
